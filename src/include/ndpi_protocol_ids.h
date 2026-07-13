@@ -506,6 +506,15 @@ typedef enum {
   NDPI_PROTOCOL_SBE                   = 474,
   NDPI_PROTOCOL_IRIS                  = 475,
   NDPI_PROTOCOL_LIBP2P                = 476,
+  NDPI_PROTOCOL_PROTON                = 477,
+  NDPI_PROTOCOL_PROTON_MAIL           = 478,
+  NDPI_PROTOCOL_PROTON_PASS           = 479,
+  NDPI_PROTOCOL_PROTON_DRIVE          = 480,
+  NDPI_PROTOCOL_PROTON_CALENDAR       = 481,
+  NDPI_PROTOCOL_PROTON_DOCS           = 482,
+  NDPI_PROTOCOL_PROTON_WALLET         = 483,
+  NDPI_PROTOCOL_PROTON_LUMO           = 484,
+  NDPI_PROTOCOL_PROTON_MEET           = 485,
 
   /* If you add a new protocol, please update the documentation at doc/protocols.rst, too! */
 
